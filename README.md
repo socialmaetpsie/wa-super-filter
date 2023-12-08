@@ -57,38 +57,65 @@ This help marketers segment their target audiences more effectively and personal
   
   
 <h2><strong> Amazing Features</strong></h2>
-<ul>
+Amazing Features
+✅Installation file---We provide a Windows installer, very easy to use
 
-       <li><p><strong>✅Installation file</strong>---We provide a Windows installer, very easy to use</p></li>
-	   <li><p><strong>✅Automatic updates</strong>--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)</p></li>
-	   <li><p><strong>✅Modern UI</strong>--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness</p></li>
-	   <li><p><strong>✅Account login</strong>---Scan the QR code to login to your whatsapp</p></li>
-	   <li><p><strong>✅Account session Save</strong>---Automatically save your whatsapp login session(No need to scan QR repeatedly)</p></li>
-	   <li><p><strong>✅Account swtich</strong>---Support multiple whatsapp accounts to switch at will</p></li>
-	   <li><p><strong>✅Phone Number Bulk Generator</strong>---Quickly and batch generate phone numbers of any country</p></li>
-	   <li><p><strong>✅Generator Contacts</strong>---Bulk Generator contacts</p></li>
-	   <li><p><strong>✅Import Phone List|Contacts</strong>---Support import your phone number|Contacts list</p></li>
-	   <li><p><strong>✅Fast Filter</strong>---It only takes 1 second to filter 2000 whatsapp contacts</p></li>
-	   <li><p><strong>✅Bulk Filter</strong>---Fast Bulk Filter Whatsapp contacts </p></li>
-	   <li><p><strong>✅Unlimited</strong>It has no limits on the number of contacts you can filter and manage</p></li>
-	   <li><p><strong>✅Export All</strong>---Export your Filter Result</p></li>
-	   <li><p><strong>✅Export valid</strong>---Wxport valid whatsapp contact list</p></li>
-	   <li><p><strong>✅Export invalid</strong>---export invalid whatsapp contact list</p></li>
-       <li><p><strong>✅Real-time Filter</strong></p>---Real-time whatsapp number verification | Filter</li>
-	   <li><p><strong>✅Filter Report</strong>---Real-time Filter Detailed Reports and Statistics</p></li>
-	   <li><p><strong>✅Filter results</strong>---Real-time display of Filter results</p></li>
-	   <li><p><strong>✅Official API</strong>---Use whatsapp official api</p></li>
-	   <li><p><strong>✅<strong>No-Ban</strong>(Account Protect your account from banned)</p></li>
-	   <li><p><strong>✅Filter delays</strong>(Support custom filter delay settings)</p></li>
-	   <li><p><strong>✅Phone Number Format</strong> Automatically format any phone number into a numeric-only number format</p></li> 
-	   <li><p><strong>✅Support multiple languages </strong></p></li>
-	   <li><p><strong>✅Support English Language </strong></p></li>
-	   <li><p><strong>✅Support Italiano language </strong></p></li>
-	   <li><p><strong>✅Support Deutsch (Deutschland) language </strong></p></li>
-	   <li><p><strong>✅Support Français (France) language </strong></p></li>
-	   <li><p><strong>✅Support Português,Español,Bahasa Indonesia,Bahasa Melayu,Tiếng Việt,Türkçe,हिन्दी </strong></p></li>
-	   <li><p><strong>✅Support 简体中文 language </strong></p></li>
-</ul>
+✅Automatic updates--- Built-in Automatic updates(Automatically download the browser driver corresponding to the local version)
+
+✅Modern UI--- Perfect commercial-grade UI, convenient for your use and resell, enhance your product competitiveness
+
+✅Account login---Scan the QR code to login to your whatsapp
+
+✅Account session Save---Automatically save your whatsapp login session(No need to scan QR repeatedly)
+
+✅Account swtich---Support multiple whatsapp accounts to switch at will
+
+✅Phone Number Bulk Generator---Quickly and batch generate phone numbers of any country
+
+✅Generator Contacts---Bulk Generator contacts
+
+✅Import Phone List|Contacts---Support import your phone number|Contacts list
+
+✅Fast Filter---It only takes 1 second to filter 2000 whatsapp contacts
+
+✅Bulk Filter---Fast Bulk Filter Whatsapp contacts
+
+✅UnlimitedIt has no limits on the number of contacts you can filter and manage
+
+✅Export All---Export your Filter Result
+
+✅Export valid---Wxport valid whatsapp contact list
+
+✅Export invalid---export invalid whatsapp contact list
+
+✅Real-time Filter
+
+---Real-time whatsapp number verification | Filter
+✅Filter Report---Real-time Filter Detailed Reports and Statistics
+
+✅Filter results---Real-time display of Filter results
+
+✅Official API---Use whatsapp official api
+
+✅No-Ban(Account Protect your account from banned)
+
+✅Filter delays(Support custom filter delay settings)
+
+✅Phone Number Format Automatically format any phone number into a numeric-only number format
+
+✅Support multiple languages
+
+✅Support English Language
+
+✅Support Italiano language
+
+✅Support Deutsch (Deutschland) language
+
+✅Support Français (France) language
+
+✅Support Português,Español,Bahasa Indonesia,Bahasa Melayu,Tiếng Việt,Türkçe,हिन्दी
+
+✅Support 简体中文 language
 
 <h2><strong>Screenshot</strong></h2>
 <img src="https://i.ibb.co/QnDJ5Mh/01.png" alt="Whatsapp Super Fast Filter Pro-01" border="0">
